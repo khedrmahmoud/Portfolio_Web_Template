@@ -3,16 +3,11 @@
 This is a simple and responsive web template for a personal portfolio. It is built using HTML and CSS and designed for showcasing your skills, projects, and personal information.
 
 ## Table of Contents
-- [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
 <!-- - [Usage](#usage)
 - [Customization](#customization)
 - [License](#license)-->
-
-## Demo
-<!--You can see a live demo of the portfolio template [here](#your-demo-link).-->
-![Portfolio Template Screenshot](screenshot.png)
 
 ## Features
 
