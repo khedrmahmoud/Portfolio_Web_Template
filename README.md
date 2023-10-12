@@ -6,14 +6,12 @@ This is a simple and responsive web template for a personal portfolio. It is bui
 - [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
+<!-- - [Usage](#usage)
 - [Customization](#customization)
-- [License](#license)
+- [License](#license)-->
 
 ## Demo
-
-You can see a live demo of the portfolio template [here](#your-demo-link).
-
+<!--You can see a live demo of the portfolio template [here](#your-demo-link).-->
 ![Portfolio Template Screenshot](screenshot.png)
 
 ## Features
@@ -30,4 +28,4 @@ To get started with this web template, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-template.git
+   git clone https://github.com/khedrmahmoud/Web_Template_1.git
